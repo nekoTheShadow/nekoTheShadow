@@ -30,6 +30,7 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 -   [GitHub](https://github.com/nekoTheShadow)
 -   [teratail](https://teratail.com/users/neko_the_shadow)
 -   [Qiita Backup](https://nekotheshadow.github.io/qiita-backup/): Qiitaの投稿内容を半自動で取得・バックアップし、GitHub Pagesで公開している。
+-   [teratail summary](https://gist.github.com/nekoTheShadow/61937507fd15bf7559eebb89e420ba92): teratailで自分が回答した質問の一覧
 
 ### Competitive programming
 
