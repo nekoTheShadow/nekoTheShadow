@@ -8,8 +8,8 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 
 このプロフィールを見たことを添えていただくとスムーズです。
 
--   [Twitter](https://twitter.com/neko_the_shadow)
 -   [LAPRAS](https://lapras.com/public/3WQ8OHO)
+-   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)
 
 ## SNS
 
@@ -29,8 +29,6 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 -   [Qiita](https://qiita.com/neko_the_shadow)
 -   [GitHub](https://github.com/nekoTheShadow)
 -   [teratail](https://teratail.com/users/neko_the_shadow)
--   [Qiita Backup](https://nekotheshadow.github.io/qiita-backup/): Qiitaの投稿内容を半自動で取得・バックアップし、GitHub Pagesで公開している。
--   [teratail summary](https://gist.github.com/nekoTheShadow/61937507fd15bf7559eebb89e420ba92): teratailで自分が回答した質問の一覧
 
 ### Competitive programming
 
