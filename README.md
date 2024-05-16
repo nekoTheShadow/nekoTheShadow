@@ -9,14 +9,14 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 このプロフィールを見たことを添えていただくとスムーズです。
 
 -   [LAPRAS](https://lapras.com/public/3WQ8OHO)
--   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)
+-   [LinkedIn](https://www.linkedin.com/in/hajime-nakamura-a78b44198/)
 
 ## SNS
 
 ### Bussiness
 
 -   [LAPRAS](https://lapras.com/public/3WQ8OHO)
--   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)
+-   [LinkedIn](https://www.linkedin.com/in/hajime-nakamura-a78b44198/)
 -   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
 
 ### Blog
