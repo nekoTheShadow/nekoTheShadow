@@ -1,15 +1,9 @@
 # neko the shadow's personal stuff
 
-## Biography
+## Summary
 
-SI業界の片隅でひっそり生きるシステムエンジニア。おもに完成車メーカ、自動車部品メーカのお客様を担当。いわゆるオープン系(Linux)のサーバサイドエンジニアで、Javaを利用したWebシステムの開発が中心です。
-
-## Preferred contact method 
-
-このプロフィールを見たことを添えていただくとスムーズです。
-
--   [LAPRAS](https://lapras.com/public/3WQ8OHO)
--   [LinkedIn](https://www.linkedin.com/in/hajime-nakamura-a78b44198/)
+- SI業界の片隅でひっそり生きるシステムエンジニア。おもに完成車メーカ、自動車部品メーカのお客様を担当。いわゆるオープン系(Linux)のサーバサイドエンジニアで、Javaを利用したWebシステムの開発が中心です。
+- 連絡をいただける際は、このプロフィールを見たことを添えていただくとスムーズです。
 
 ## SNS
 
@@ -39,6 +33,7 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 
 ## Licence
 
+-   [Credly](https://www.credly.com/users/hajime-nakamura.83ccaac2)
 -   ITパスポート
 -   基本情報処理技術者試験
 -   応用情報処理技術者試験
