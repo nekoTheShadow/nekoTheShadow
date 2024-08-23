@@ -11,12 +11,12 @@
 
 -   [LAPRAS](https://lapras.com/public/3WQ8OHO)
 -   [LinkedIn](https://www.linkedin.com/in/hajime-nakamura-a78b44198/)
--   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
 
 ### Blog
 
 -   [Twitter](https://twitter.com/neko_the_shadow)
 -   [Hatena Blog](http://nekotheshadow.hatenablog.com/)
+-   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
 
 ### Software
 
