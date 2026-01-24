@@ -14,15 +14,18 @@
 
 ### Blog
 
--   [Twitter](https://twitter.com/neko_the_shadow)
 -   [Hatena Blog](http://nekotheshadow.hatenablog.com/)
--   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
+-   [note](https://note.com/nekotheshadow)
 
 ### Software
 
 -   [Qiita](https://qiita.com/neko_the_shadow)
 -   [GitHub](https://github.com/nekoTheShadow)
 -   [teratail](https://teratail.com/users/neko_the_shadow)
+
+### Social
+-   [Twitter](https://twitter.com/neko_the_shadow)
+-   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
 
 ### Competitive programming
 
@@ -31,7 +34,7 @@
 -   [Codeforces](https://codeforces.com/profile/nekoTheShadow)
 -   [LeetCode](https://leetcode.com/nekoTheShadow/)
 
-## Licence
+### Licence
 
 -   [Credly](https://www.credly.com/users/hajime-nakamura.83ccaac2)
 -   ITパスポート
